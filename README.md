@@ -8,7 +8,7 @@ Build a Convolutional Neural Network (CNN) model to classify images from a given
 
 [Task Descriptions and Project Instructions](https://github.com/ironhack-labs/project-1-deep-learning-image-classification-with-cnn)
 
-## Project Results
+## Project Results 
 In this project, we processed the CIFAR10 dataset of images and explored different classifiers results:
 - Building a sequential CNN model from scratch
 - Fine tuned the model and got 84 % of accuracy and 0.47 of loss
@@ -70,4 +70,5 @@ Presentation_P1_G4
 ### Python Modules
 
 **deployment.py:** A .py to call deployment from terminal if we want.
+
 
