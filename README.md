@@ -26,6 +26,22 @@ Here is a short description of the folder and files available on the repository.
 **Group 4 - Image Classification with CNN - Presentation Slides**  
 Presentation_P1_G4 
 
+### Saved models - We didn't save all of the models because they were already inferior than the ones we had previously - The winner model is `challenger8_fixed.keras` or `challenger8.pkl`
+- **challenger1.pkl**:saved model
+- **challenger2.pkl**:saved model
+- **challenger3.pkl**:saved model
+- **challenger6.pkl**:saved model
+- **challenger7.pkl**:saved model
+- **challenger8.pkl**:saved model
+- **challenger8_fixed.keras**:saved model
+- **model_02.keras**:saved model
+- **model_03.keras**:saved model
+- **model_04.keras**:saved model
+- **model_05.keras**:saved model
+- **model_06.keras**:saved model
+- **model_07.keras**:saved model
+- **model_08.keras**:saved model
+
 ### Notebooks  
 - **Workflow_Project1_CIFAR10_CNN_G4**: Our workflow where we worked to obtain eacg model
 
@@ -54,3 +70,4 @@ Presentation_P1_G4
 ### Python Modules
 
 **deployment.py:** A .py to call deployment from terminal if we want.
+
