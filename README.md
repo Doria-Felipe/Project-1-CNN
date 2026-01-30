@@ -8,8 +8,6 @@ Build a Convolutional Neural Network (CNN) model to classify images from a given
 
 [Task Descriptions and Project Instructions](https://github.com/ironhack-labs/project-1-deep-learning-image-classification-with-cnn)
 
-<img src="files/classification.png">
-
 ## Project Results
 In this project, we processed the CIFAR10 dataset of images and explored different classifiers results:
 - Building a sequential CNN model from scratch
@@ -18,7 +16,7 @@ In this project, we processed the CIFAR10 dataset of images and explored differe
 
 We deployed a simple gradio demo showing the classification results on unseen images.
 
-![gradio_demo](files/gradio_demo.png)
+![gradio_demo](gradio_demo.png)
 
 ## Repository Folders and Files
 
@@ -54,4 +52,5 @@ Presentation_P1_G4
 - **Deployment**: Deploy a demo of our best model on Gradio
 
 ### Python Modules
+
 **deployment.py:** A .py to call deployment from terminal if we want.
