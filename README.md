@@ -26,7 +26,10 @@ Here is a short description of the folder and files available on the repository.
 **Group 4 - Image Classification with CNN - Presentation Slides**  
 Presentation_P1_G4 
 
-### Saved models - We didn't save all of the models because they were already inferior than the ones we had previously - The winner model is `challenger8_fixed.keras` or `challenger8.pkl`
+### Saved models 
+
+We didn't save all of the models because they were already inferior than the ones we had previously - The winner model is `challenger8_fixed.keras` or `challenger8.pkl`
+
 - **challenger1.pkl**:saved model
 - **challenger2.pkl**:saved model
 - **challenger3.pkl**:saved model
